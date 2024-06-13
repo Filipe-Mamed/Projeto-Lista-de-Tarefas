@@ -13,7 +13,8 @@ Programa para adicionar tarefas no seu dia a dia.
 
 ## Introdução
 
-<img src="https://ibb.co/xFsR9Hx" alt="imagem-logo"/>
+<img src="https://i.postimg.cc/G2GW8Bcz/Lista-de-Tarefas.png" alt="imagem-logo"/>
+<br>
 
 # React + Vite
 
